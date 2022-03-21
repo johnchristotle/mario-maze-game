@@ -48,19 +48,19 @@ In this project, the complete feature of the app renders the following:
 
 To play use the arrow keys.
 
-* [Arrow Keys](./screenshot/keys.png)
+![Arrow Keys](./screenshot/key.png)
 
 
 ## Screenshots
 
 #### Home
 
-* [Empty Board](./screenshot/entry.jpeg)
+![Empty Board](./screenshot/entry1.jpeg)
 
 
 #### Play Board
 
-* [Game on](./screenshot/entry2.jpeg)
+![Game on](./screenshot/entry2.jpeg)
 
 
 ## Prerequisites Installations
