@@ -93,7 +93,7 @@ git clone https://github.com/johnchristotle/mario-maze-game.git
 Move into the cloned folder
 
 ```Shell
- cd maze-eating-game
+ cd mario-maze-game
 ```
 
 Get the dependencies needed for the app
