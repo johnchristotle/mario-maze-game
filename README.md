@@ -55,12 +55,12 @@ To play use the arrow keys.
 
 #### Home
 
-![Empty Board](./screenshot/entry1.jpeg)
+![Empty Board](./screenshot/entry1.png)
 
 
 #### Play Board
 
-![Game on](./screenshot/entry2.jpeg)
+![Game on](./screenshot/entry2.png)
 
 
 ## Prerequisites Installations
