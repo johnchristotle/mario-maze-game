@@ -16,6 +16,9 @@
   </p>
 </p>
 
+## Live version of the game:
+https://maze-eating-game.vercel.app
+
 <!-- TABLE OF CONTENTS -->
 
 ## Table of Contents
